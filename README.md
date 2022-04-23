@@ -12,6 +12,7 @@ Broadcast new updates directly to user's Whatsapp Id and always keep them update
 
 # Tech Stacks
 Languages Used: Python 
+
 Tech Stack Used: BeautifulSoup, Twilio,Scrapy
 
 # Authors
