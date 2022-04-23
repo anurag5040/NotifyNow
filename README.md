@@ -4,7 +4,7 @@ NotifyNow is a tool which fetches the new notifcations from the academic website
 The purpose of this tool is to help students in getting regular updates and relieving them from the burden of logging again and again to the academic portal.
 
 # Features
-Broadcast new updates directly to user's Whatsapp Id and always keep them updated without missing any crucial info.
+It broadcasts new updates directly to user's Whatsapp Id and always keep them updated without missing any crucial info.
 
 -Instant updates
 -Provides doucument link of the new notification
