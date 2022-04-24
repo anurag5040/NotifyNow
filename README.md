@@ -19,8 +19,7 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 
 # Presentation & Video
   Here is the presentation of our project .                 
-  https://docs.google.com/presentation/d/1JKukPReWExPsxeNa6tmmTwPY-FPmQUZx/edit?usp=sharing&ouid=102285003065471675463&rtpof=true&sd=true
-
+    https://docs.google.com/presentation/d/1DAZOQspx836p-jajOrrBEep3r4h-JWYd/edit?usp=sharing&ouid=102285003065471675463&rtpof=true&sd=true
   Video Demo Link Deployed on Server: https://drive.google.com/drive/folders/1Yv7fxaH8YiLMKsZAB1MHIg5Ff15lDY-h?usp=sharing
 # Problems Faced
 
