@@ -6,14 +6,23 @@ The purpose of this tool is to help students in getting regular updates and reli
 # Features
 It broadcasts new updates directly to user's Whatsapp Id and always keep them updated without missing any crucial info.
 
--Instant updates
--Provides doucument link of the new notification
--Delivers notification on widely used messaging platform i.e. Whatsapp
+*Instant updates
+
+*Provides doucument link of the new notification
+
+*Delivers notification on widely used messaging platform i.e. Whatsapp
 
 # Tech Stacks
 Languages Used: Python 
 
 Tech Stack Used: BeautifulSoup, Twilio,Scrapy
+
+# Problems Faced
+
+* While sccrapping and parsing there was difficulty  in detecting the changes occuring in notification section of the website.
+* Whatsapp messaging API i.e. Twilio wasn't working and was throwing error 500 so switched to it's alternative i.e. Telegram API.
+* After detecting the change , converting the new notification from HTML to doc was quite challenging.
+* While deploying our code on web server we faced lot of errors.
 
 # Authors
 
