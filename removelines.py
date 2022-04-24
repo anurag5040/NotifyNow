@@ -1,4 +1,5 @@
 import sys
+
 output=""
 with open("output.txt") as f:
     for line in f:
