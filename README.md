@@ -8,14 +8,14 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 
 *Instant updates
 
-*Provides doucument link of the new notification
+* Provides doucument link of the new notification
 
-*Delivers notification on widely used messaging platform i.e. Whatsapp
+* Delivers notification on widely used messaging platform i.e. Whatsapp
 
 # Tech Stacks
-Languages Used: Python 
+* Languages Used: Python 
 
-Tech Stack Used: BeautifulSoup, Twilio,Scrapy
+* Tech Stack Used: BeautifulSoup, Twilio,Scrapy
 
 # Problems Faced
 
@@ -26,18 +26,18 @@ Tech Stack Used: BeautifulSoup, Twilio,Scrapy
 
 # Authors
 
-1.Harshit Chaudhari
+* Harshit Chaudhari
 
    GitHub Profile:
 
-2.Ashish Kumar sharma
+* Ashish Kumar sharma
 
    GitHub Profile:AshishSharma1203
 
-3.Anurag Kumar
+* Anurag Kumar
 
    GitHub Profile:Anurag5040
 
-4.Anupesh Kumar Verma 
+* Anupesh Kumar Verma 
 
    GitHub Profile :
