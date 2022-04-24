@@ -15,7 +15,7 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 # Tech Stacks
 * Languages Used: Python 
 
-* Tech Stack Used: BeautifulSoup, Twilio,Scrapy,Flask.
+* Tech Stack Used: BeautifulSoup,Scrapy,Twilio, Telegram API,Flask.
 
 # Presentation
   Here is the presentation of our project .                 
@@ -32,7 +32,7 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 
 * Harshit Chaudhari
 
-   GitHub Profile:
+   GitHub Profile:Lucifer2525-jnv
 
 * Ashish Kumar sharma
 
