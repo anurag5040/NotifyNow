@@ -10,7 +10,7 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 
 * Provides doucument link of the new notification
 
-* Delivers notification on widely used messaging platform i.e. Whatsapp
+* Delivers notification on widely used messaging platform i.e. Whatsapp (presently on Telegram due to WhatsApp API i.e. Twilio issue.
 
 # Tech Stacks
 * Languages Used: Python 
