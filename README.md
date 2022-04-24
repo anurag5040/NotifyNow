@@ -1,5 +1,5 @@
 # NotifyNow
-NotifyNow is a tool which fetches the new notifcations from the academic website and delivers it to respective user's Whatsapp Id.
+NotifyNow is a tool which fetches the new notifcations from the MNNIT's academic website and delivers it to respective user's Whatsapp Id.
 
 The purpose of this tool is to help students in getting regular updates and relieving them from the burden of logging again and again to the academic portal.
 
@@ -24,8 +24,8 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 # Problems Faced
 
 * While scraping and parsing there was difficulty  in detecting the changes occuring in notification section of the website.
-* Whatsapp messaging API i.e. Twilio wasn't working and was throwing "error 500" so switched to it's alternative i.e. Telegram API.
-* After detecting the change , converting the new notification from HTML to doc was quite challenging.
+* Whatsapp messaging API i.e. Twilio wasn't working and was throwing "error:500" so we switched to it's alternative i.e. Telegram API.
+* After detecting the change , converting the new notification from HTML to doc. was quite challenging.
 * While deploying our code on web server we faced lot of errors.
 
 # Authors
