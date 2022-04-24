@@ -19,8 +19,8 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 
 # Problems Faced
 
-* While sccrapping and parsing there was difficulty  in detecting the changes occuring in notification section of the website.
-* Whatsapp messaging API i.e. Twilio wasn't working and was throwing error 500 so switched to it's alternative i.e. Telegram API.
+* While scraping and parsing there was difficulty  in detecting the changes occuring in notification section of the website.
+* Whatsapp messaging API i.e. Twilio wasn't working and was throwing "error 500" so switched to it's alternative i.e. Telegram API.
 * After detecting the change , converting the new notification from HTML to doc was quite challenging.
 * While deploying our code on web server we faced lot of errors.
 
