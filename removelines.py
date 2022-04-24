@@ -1,9 +1,9 @@
 import sys
 output=""
-with open("output.txt") as f:
+with open("Output.txt") as f:
     for line in f:
         if not line.isspace():
             output+=line
             
-f= open("output.txt","w")
-f.write(output)
+f= open("Output.txt","w")
+f.write(Output)
