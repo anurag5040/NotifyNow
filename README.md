@@ -18,7 +18,7 @@ It broadcasts new updates directly to user's Whatsapp Id and always keep them up
 * Tech Stack Used: BeautifulSoup, Twilio,Scrapy
 
 # Presentation
-  Here is the presentation our project .                 
+  Here is the presentation of our project .                 
   https://docs.google.com/presentation/d/1JKukPReWExPsxeNa6tmmTwPY-FPmQUZx/edit?usp=sharing&ouid=102285003065471675463&rtpof=true&sd=true
 
 # Problems Faced
